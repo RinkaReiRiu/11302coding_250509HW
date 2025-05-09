@@ -1,3 +1,4 @@
+/*
 let video;
 let poseNet;
 let poses = [];
@@ -96,8 +97,9 @@ function drawCamera() { // Draw the mirrored camera
 function windowResized() { // Handle window resizing
   resizeCanvas(windowWidth, windowHeight);
 }
+*/
 
-/*
+
 let video;
 let poseNet;
 let poses = [];
@@ -222,5 +224,3 @@ function drawCamera() { // Draw the mirrored camera
 function windowResized() { // Handle window resizing
   resizeCanvas(windowWidth, windowHeight);
 }
-
-*/
